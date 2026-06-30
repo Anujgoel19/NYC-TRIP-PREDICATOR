@@ -209,7 +209,7 @@ streamlit run app.py
 ```
 
 **Access Application:**
-- Open browser: `http://localhost:8501`
+- Open browser: `https://anujgoel19-nyc-trip-predicator-app-1xwm4t.streamlit.app/`
 - Use sidebar to navigate between pages
 
 ### Step 3: Make Predictions
